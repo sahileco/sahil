@@ -7,7 +7,7 @@ title: "Conferences"
 
   <div style="display: flex; gap: 20px;">
   <img src="{{ 'assets/images/rome1.jpg' | relative_url }}" width="300" height="200">
-  <img src="{{ 'assets/images/rome2.jgp' | relative_url }}" width="300" height="200">
+  <img src="{{ 'assets/images/rome2.jpg' | relative_url }}" width="300" height="200">
 </div>
 
 -The 59th annual conference of The Indian Econometrics Society (TIES) at Banaras Hindu University (BHU). (3- 5th March 2025). 
