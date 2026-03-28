@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "MGNREGA"
+date: 2025-12-8T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,9 +8,7 @@ tags:
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+https://www.linkedin.com/posts/lab-for-social-well-being-and-inequality_the-g-ramg-act-2025-raises-serious-concerns-activity-7417457557251862528-y2JM?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmSb0BF4mNVzLE3-e8h_wan0jvhq_MMYI 
 
 Jekyll also offers powerful support for code snippets:
 
