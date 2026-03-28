@@ -9,4 +9,4 @@ tags:
   - standard
 ---
 
-https://www.linkedin.com/posts/lab-for-social-well-being-and-inequality_towards-tax-justice-and-wealth-redistribution-activity-7411380745165996032-DXsk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmSb0BF4mNVzLE3-e8h_wan0jvhq_MMYI 
+<https://www.linkedin.com/posts/lab-for-social-well-being-and-inequality_towards-tax-justice-and-wealth-redistribution-activity-7411380745165996032-DXsk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmSb0BF4mNVzLE3-e8h_wan0jvhq_MMYI>
