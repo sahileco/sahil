@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dr. Sahil Verma"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Assistant Professor (Economics)."
+  bio    : "Assistant Professor (Economics)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
