@@ -10,8 +10,10 @@ title: "Conferences"
 
 - The 59th annual conference of The Indian Econometrics Society (TIES) at Banaras Hindu University (BHU). (3- 5th March 2025). 
   <p align="center">
-  <img src="{{ 'assets/images/BHU.jpg' | relative_url }}" width="350" height="200" >
+  <img src="{{ 'assets/images/BHU1.jpg' | relative_url }}" width="350" height="200" >
 
 - Conference on “Achieving Sustainable Development Goals: Prospects and Challenges for India” at SMVDU and IIT Jammu. (21- 22 March 2025). 
 
-- “2nd Edition of The Political Economy of Ecological Change and Economic Security in the Global South” conference at the University of Cambridge, UK. (14-16 July 2025). 
+- “2nd Edition of The Political Economy of Ecological Change and Economic Security in the Global South” conference at the University of Cambridge, UK. (14-16 July 2025).
+    <p align="center">
+  <img src="{{ 'assets/images/cb.jpg' | relative_url }}" width="350" height="200" >
