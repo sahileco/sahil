@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "linkdin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sahil-verma-3b904a210/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
