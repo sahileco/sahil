@@ -3,6 +3,5 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My name is Dr. Sahil Verma. My broad area of research is Development Economics. I work on socio-economic inequality including income, consumption, education. My work explore the stratification economics particularly the caste-stratification in India. My interest lies in both inequlaity of outcome and opporunity. 
+I also interested in climate change and its effect on inequality. I really enjoy working with applied econometrics, casual inference machine learing, and large data sets such as panel household servey, night time light, and gridded data. 
