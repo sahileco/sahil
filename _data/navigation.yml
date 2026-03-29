@@ -1,4 +1,6 @@
 main:
+  - title: "Education"
+    url: /Education/
   - title: "Publications"
     url: /Publications/
   - title: "Conferences"
